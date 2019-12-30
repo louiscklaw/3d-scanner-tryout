@@ -1,3 +1,9 @@
 [submodule "_ref/ciclop"]
 	path = _ref/ciclop
 	url = https://github.com/LibreScanner/ciclop.git
+[submodule "_ref/watterott/FabScan-Shield"]
+	path = _ref/watterott/FabScan-Shield
+	url = https://github.com/watterott/FabScan-Shield.git
+[submodule "_ref/watterott/RPi-FabScan-HAT"]
+	path = _ref/watterott/RPi-FabScan-HAT
+	url = https://github.com/watterott/RPi-FabScan-HAT.git
